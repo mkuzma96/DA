@@ -1,0 +1,4 @@
+[{'alpha_lm': 1, 'order_lm': 1}, 
+{'layer_size_nn': 27, 'lr_nn': 0.0005, 'drop_nn': 0, 'n_epochs_nn': 300, 'b_size_nn': 22}, 
+{'alpha_scw': 0.1, 'order_scw': 1, 'm_scw': 3, 'layer_size_bae': 10, 'rep_size_bae': 4, 'drop_bae': 0, 'lr_bae': 0.0005, 'n_epochs_bae': 100, 'b_size_bae': 22, 'alpha_bae': 1, 'alpha_lm': 0.1, 'order_lm': 2}, 
+{'layer_size_nn': 14, 'lr_nn': 0.0005, 'drop_nn': 0, 'n_epochs_nn': 200, 'b_size_nn': 22, 'alpha_scw': 0.1, 'order_scw': 1, 'm_scw': 3, 'layer_size_bae': 10, 'rep_size_bae': 4, 'drop_bae': 0, 'lr_bae': 0.0005, 'n_epochs_bae': 100, 'b_size_bae': 22, 'alpha_bae': 1}]
