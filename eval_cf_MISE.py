@@ -1,8 +1,4 @@
-"""
 
-This code contains the hyperparameter search for model/data set pair via cross validation
-
-"""
 
 #%% Packages
 
